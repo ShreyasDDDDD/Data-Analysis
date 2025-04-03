@@ -1,0 +1,504 @@
+Ticker;Company name;Sector;Disclosed security breach between 2020-2023;Date of disclosing;Short description;Source;Additional source;Insider involvement;Identifier of the breach;SIC code;Firm size (in thousands) ;Control firm ticker;First stock date;Last stock date
+MMM;3M Company;Producer Manufacturing;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+AOS;A.O. Smith Corporation;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+ABT;Abbott Laboratories;Health Technology;No;X;X;X;X;X;X;X;X;;;
+ABBV;AbbVie Inc.;Health Technology;Yes;27-06-2023;MOVEit;https://www.reuters.com/technology/siemens-energy-no-critical-data-was-compromised-after-moveit-data-breach-2023-06-27/;;Outsider;Hacker;2834;0.0252;MRK;22-2-2023;30-10-2023
+ACN;Accenture plc;Technology Services;Yes;12-08-2021;;https://www.cybertalk.org/2021/08/12/accentures-50m-ransomware-threat-an-inside-job/  ;https://www.cshub.com/executive-decisions/articles/accenture-faces-50-million-ransom-demand ;Malicious insider;Organization itself;7389;0.0241;GPN;9-4-2021;15-12-2021
+ATVI;Activision Blizzard, Inc;Technology Services;Yes;20-02-2023;;https://gameworldobserver.com/2023/02/20/activision-hack-phishing-call-of-duty-roadpmaps;;Insider error;Hacker;7372;0.0237;ADBE;18-10-2022;25-6-2023
+ADBE;Adobe Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+AAP;Advance Auto Parts Inc.;Retail Trade;No;X;X;X;X;X;X;X;X;;;
+AMD;Advanced Micro Devices, Inc.;Electronic Technology;Yes;28-06-2022;;https://therecord.media/amd-investigating-claims-of-stolen-data ;https://techcrunch.com/2022/06/28/amd-extortion-ransomhouse/ ;Outsider;Hacker;3674;0.0225;ON;23-2-2022;31-10-2022
+AFL;AFLAC Incorporated;Finance;Yes;08-01-2023;;https://thecyberexpress.com/zurich-insurance-and-aflac-data-leak/ ;https://www.cpomagazine.com/cyber-security/data-breach-exposed-2-million-aflac-and-zurich-insurance-policyholders-records/ ;Outsider;Hacker;6311 & 6331;0.0258;L;5-9-2022;13-5-2023
+A;Agilent Technologies, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+APD;Air Products and Chemicals, Inc.;Process Industries;No;X;X;X;X;X;X;X;X;;;
+AKAM;Akamai Technologies, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+ALK;Alaska Air Group, Inc.;Transportation;No;X;X;X;X;X;X;X;X;;;
+ALB;Albemarle Corporation;Process Industries;No;X;X;X;X;X;X;X;X;;;
+ARE;Alexandria Real Estate Equities, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+ALGN;Align Technology, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+ALLE;Allegion plc;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+LNT;Alliant Energy Corporation;Utilities;No;X;X;X;X;X;X;X;X;;;
+ALL;Allstate Corporation (The);Finance;Yes;15-11-2022;;https://colevannote.com/data-breach-allstate-insurance-company/ ;;Outsider;Organization itself;6311 & 6331;0.0255;TRV;13-7-2022;20-3-2023
+GOOG;Alphabet Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+GOOGL;Alphabet Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+MO;Altria Group, Inc.;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+AMZN;Amazon.com, Inc.;Retail Trade;Yes;26-10-2020;;https://www.vice.com/en/article/dy8zwz/amazon-fired-employee-leaking-customer-emails ;https://firewalltimes.com/amazon-data-breach-timeline/ ;Malicious insider;Organization itself;5961;0.0261;ULTA;23-6-2020;28-2-2021
+AMCR;Amcor plc;Process Industries;No;X;X;X;X;X;X;X;X;;;
+AEE;Ameren Corporation;Utilities;Yes;23-03-2020;;https://www.stlpr.org/politics-issues/2020-03-23/ameren-missouri-equipment-supplier-targeted-in-ransomware-attack ;;Insider error;Hacker;4939;0.0241;AES;19-11-2019;26-7-2020
+AAL;American Airlines Group, Inc.;Transportation;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+AEP;American Electric Power Company, Inc.;Utilities;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+AXP;American Express Company;Finance;No;X;X;X;X;X;X;X;X;;;
+AIG;American International Group, Inc. New;Finance;No;X;X;X;X;X;X;X;X;;;
+AMT;American Tower Corporation (REIT);Finance;No;X;X;X;X;X;X;X;X;;;
+AWK;American Water Works Company, Inc.;Utilities;No;X;X;X;X;X;X;X;X;;;
+AMP;Ameriprise Financial, Inc.;Finance;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+ABC;AmerisourceBergen Corporation;Distribution Services;Yes;08-02-2023;;https://www.bleepingcomputer.com/news/security/drug-distributor-amerisourcebergen-confirms-security-breach/ ;;Insider error;Hacker;unknown;X;;6-10-2022;13-6-2023
+AME;AMETEK, Inc.;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+AMGN;Amgen Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+APH;Amphenol Corporation;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+ADI;Analog Devices, Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+ANSS;ANSYS, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+AON;Aon plc;Finance;Yes;08-07-2022;;https://www.infosecurity-magazine.com/news/aon-hack-sensitive-information/ ;;Outsider;Organization itself;6411;0.0241;unknown;5-3-2022;10-11-2022
+APA;APA Corporation;Energy Minerals;Yes;02-11-2022;;https://www.itnews.com.au/news/apa-viterra-caught-up-in-frontier-ransomware-attack-587279 ;https://www.itnews.com.au/news/frontier-software-breach-spreads-to-nsw-health-591778 ;Insider error;Organization itself;1311;0.0236;PXD;30-6-2022;7-3-2023
+AAPL;Apple Inc.;Electronic Technology;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+AMAT;Applied Materials, Inc.;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+APTV;Aptiv PLC;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+ACGL;Arch Capital Group Ltd.;Finance;No;X;X;X;X;X;X;X;X;;;
+ADM;Archer-Daniels-Midland Company;Process Industries;No;X;X;X;X;X;X;X;X;;;
+ANET;Arista Networks, Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+AJG;Arthur J. Gallagher & Co.;Finance;Yes;30-09-2020;;https://www.bitdefender.com/blog/hotforsecurity/arthur-j-gallagher-insurance-brokerage-reports-cyberattack/ ;;Insider error;Organization itself;6411;0.0237;BRO;28-5-2020;2-2-2021
+AIZ;Assurant, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+T;AT&T Inc.;Communications;Yes;09-03-2023;;https://www.cnet.com/tech/mobile/at-t-vendor-data-breach-exposed-9-million-customer-accounts/ ;;Outsider;Organization itself;4813;0.0270;unknown;4-11-2022;12-7-2023
+ATO;Atmos Energy Corporation;Utilities;No;X;X;X;X;X;X;X;X;;;
+ADSK;Autodesk, Inc.;Technology Services;Yes;02-09-2021;Solarwinds;https://www.theregister.com/2021/09/02/autodesk_solarwinds_hack_victim/ ;;Outsider;Organization itself;7372;0.0225;SNPS;30-4-2021;5-1-2022
+ADP;Automatic Data Processing, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+AZO;AutoZone, Inc.;Retail Trade;Yes;21-11-2023;MOVEit;https://www.bleepingcomputer.com/news/security/auto-parts-giant-autozone-warns-of-moveit-data-breach/ ;;Outsider;Organization itself;5531;0.0230;AAP;19-7-2023;25-3-2024
+AVB;AvalonBay Communities, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+AVY;Avery Dennison Corporation;Process Industries;No;X;X;X;X;X;X;X;X;;;
+AXON;Axon Enterprise, Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+BKR;Baker Hughes Company;Industrial Services;No;X;X;X;X;X;X;X;X;;;
+BALL;Ball Corporation;Process Industries;No;X;X;X;X;X;X;X;X;;;
+BAC;Bank of America Corporation;Finance;No;X;X;X;X;X;X;X;X;;;
+BBWI;Bath & Body Works, Inc.;Retail Trade;Yes;31-10-2022;;https://finance.yahoo.com/news/bed-bath-beyond-confirms-data-150802222.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKosf9zn6UntpCPJFYcLSGGEWqLxYhgQnR1lt1LBgvfcNrZYb-y-NWSmWRrCTn0249XXKVfsWPMfIZOUlveSBSaz_zM3AtjWYb6KH_vzMGlE_yINsvF2-NYj2uY_7Tzv-cCAe0_iSH0rhMm747941scgS6S6baoCttoXEohZvPNu;;Insider error;Organization itself;5621;0.0230;ROST;28-6-2022;5-3-2023
+BAX;Baxter International Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+BDX;Becton, Dickinson and Company;Health Technology;No;X;X;X;X;X;X;X;X;;;
+BRK.B;Berkshire Hathaway Inc. New;Finance;Yes;12-08-2022;;https://www.jdsupra.com/legalnews/berkshire-partners-llc-announces-data-7998794/;;unknown;X;X;X;;9-4-2022;15-12-2022
+BBY;Best Buy Co., Inc.;Retail Trade;No;X;X;X;X;X;X;X;X;;;
+BIO;Bio-Rad Laboratories, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+TECH;Bio-Techne Corp;Health Technology;No;X;X;X;X;X;X;X;X;;;
+BIIB;Biogen Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+BLK;BlackRock, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+BA;Boeing Company (The);Electronic Technology;Yes;02-11-2023;;https://www.reuters.com/business/aerospace-defense/boeing-investigating-cyber-incident-affecting-parts-business-2023-11-01/ ;;Insider error;Hacker;3721;0.0256;HWM;30-6-2023;6-3-2024
+BKNG;Booking Holdings Inc. Common Stock;Consumer Services;Yes;13-11-2023;;https://www.jdsupra.com/legalnews/booking-com-confirms-phishing-attack-2934963/ ;;Insider error;Organization itself;7389;0.0238;FLT;11-7-2023;17-3-2024
+BWA;BorgWarner Inc.;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+BXP;Boston Properties, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+BSX;Boston Scientific Corporation;Distribution Services;No;X;X;X;X;X;X;X;X;;;
+BMY;Bristol-Myers Squibb Company;Health Technology;Yes;11-07-2023;MOVEit;https://www.turkestrauss.com/2023/07/11/bristol-myers-squibb-data-breach-investigation/;;Outsider;Organization itself;2834;0.0256;AMGN;8-3-2023;13-11-2023
+AVGO;Broadcom Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+BR;Broadridge Financial Solutions, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+BRO;Brown & Brown, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+BF.B;Brown Forman Inc;Consumer Non-Durables;Yes;17-08-2020;Revil;https://www.forbes.com/sites/leemathews/2020/08/17/brown-forman-hacked-1tb-data-stolen/?sh=3e60e95b4da0 ;;Insider error;Organization itself;unknown;X;;14-4-2020;20-12-2020
+BG;Bunge Limited Bunge Limited;Process Industries;No;X;X;X;X;X;X;X;X;;;
+CHRW;C.H. Robinson Worldwide, Inc.;Transportation;No;X;X;X;X;X;X;X;X;;;
+CDNS;Cadence Design Systems, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+CZR;Caesars Entertainment, Inc.;Consumer Services;Yes;14-09-2023;;https://www.cybersecuritydive.com/news/mgm-resorts-caesars-attacks-hospitality/693689/ ;https://www.cybersecuritydive.com/news/caesars-social-engineering-breach/695995/ ;Insider error;Organization itself;7011;0.0225;HLT;12-5-2023;17-1-2024
+CPT;Camden Property Trust;Finance;No;X;X;X;X;X;X;X;X;;;
+CPB;Campbell Soup Company;Consumer Non-Durables;Yes;26-09-2023;;https://www.cybersecuritydive.com/news/campbell-soup-cyberattack-limited-impact/694758/ ;;Outsider;Organization itself;2032;0.0233;SJM;24-5-2023;29-1-2024
+COF;Capital One Financial Corporation;Finance;Yes;23-06-2023;;https://therecord.media/capital-one-ncb-management-services-data-breach;;Insider error;Organization itself;6712;0.0267;TFC;18-2-2023;26-10-2023
+CAH;Cardinal Health, Inc.;Distribution Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+KMX;CarMax Inc;Retail Trade;No;X;X;X;X;X;X;X;X;;;
+CCL;Carnival Corporation;Consumer Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+CARR;Carrier Global Corporation;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+CTLT;Catalent, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+CAT;Caterpillar, Inc.;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+CBOE;Cboe Global Markets, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+CBRE;CBRE Group Inc;Finance;No;X;X;X;X;X;X;X;X;;;
+CDW;CDW Corporation;Technology Services;Yes;06-10-2023;Lockbit;https://www.theregister.com/2023/10/06/cdw_lockbit_negotiations/ ;a lot of later sources;Outsider;Hacker;5961;0.0228;MTCH;3-6-2023;8-2-2024
+CE;Celanese Corporation;Process Industries;No;X;X;X;X;X;X;X;X;;;
+CNC;Centene Corporation;Health Services;Yes;X;no open source;X;X;X;X;X;X;;;
+CNP;CenterPoint Energy, Inc (Holding Co);Utilities;No;X;X;X;X;X;X;X;X;;;
+CDAY;Ceridian HCM Holding Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+CF;CF Industries Holdings, Inc.;Process Industries;No;X;X;X;X;X;X;X;X;;;
+CRL;Charles River Laboratories International, Inc.;Commercial Services;No;X;X;X;X;X;X;X;X;;;
+SCHW;Charles Schwab Corporation (The);Finance;Yes;14-07-2023;MOVEit;https://www.investmentnews.com/industry-news/news/charles-schwab-announces-td-ameritrade-data-breach-239887  ;;Outsider;Organization itself;6712;0.0264;STT;11-3-2023;16-11-2023
+CHTR;Charter Communications, Inc.;Consumer Services;Yes;27-01-2023;;https://therecord.media/telecom-giant-charter-communications-says-third-party-vendor-had-security-breach ;https://www.scmagazine.com/brief/charter-communications-impacted-by-third-party-breach ;Outsider;Hacker;4841;0.0257;unknown;24-9-2022;1-6-2023
+CVX;Chevron Corporation;Energy Minerals;Yes;29-08-2023;MOVEit;https://www.jdsupra.com/legalnews/chevron-federal-credit-union-files-7180502/ ;;Outsider;Organization itself;2911;0.0262;COP;26-4-2023;1-1-2024
+CMG;Chipotle Mexican Grill, Inc.;Consumer Services;No;X;X;X;X;X;X;X;X;;;
+CB;Chubb Limited;Finance;Yes;26-03-2020;;https://techcrunch.com/2020/03/26/chubb-insurance-breach-ransomware/ ;https://www.reuters.com/article/idUSL1N2BJ2GJ/ ;Insider error;Organization itself;6311 & 6331;0.0259;LNC;22-11-2019;29-7-2020
+CHD;Church & Dwight Company, Inc.;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+CINF;Cincinnati Financial Corporation;Finance;No;X;X;X;X;X;X;X;X;;;
+CTAS;Cintas Corporation;Consumer Services;No;X;X;X;X;X;X;X;X;;;
+CSCO;Cisco Systems, Inc.;Technology Services;Yes;18-10-2023;;https://cyberscoop.com/cisco-devices-breach-ios-xe/;;Outsider;Third party;3661;0.0253;JNPR;15-6-2023;20-2-2024
+C;Citigroup, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+CFG;Citizens Financial Group, Inc.;Finance;Yes;X;no open source;X;X;X;X;X;X;;;
+CLX;Clorox Company (The);Consumer Non-Durables;Yes;16-08-2023;;https://informationsecuritybuzz.com/cybersecurity-breach-hits-clorox-several-systems-taken-offline/?trk=article-ssr-frontend-pulse_little-text-block ;https://www.reuters.com/business/retail-consumer/clorox-expects-quarterly-loss-hit-cyberattack-2023-10-04/  ;Insider error;Organization itself;2842;0.0224;CL;13-4-2023;19-12-2023
+CME;CME Group Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+CMS;CMS Energy Corporation;Utilities;No;X;X;X;X;X;X;X;X;;;
+KO;Coca-Cola Company (The);Consumer Non-Durables;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+CTSH;Cognizant Technology Solutions Corporation;Technology Services;Yes;18-04-2020;Maze ransomware;https://news.cognizant.com/2020-04-18-cognizant-security-update ;;Insider error;Organization itself;7371;0.0235;VRSK;15-12-2019;21-8-2020
+CL;Colgate-Palmolive Company;Consumer Non-Durables;Yes;X;no open source;X;X;X;X;X;X;;;
+CMCSA;Comcast Corporation;Consumer Services;Yes;18-12-2023;;https://www.reuters.com/technology/cybersecurity/comcasts-xfinity-flags-data-security-incident-2023-12-18/ ;;Outsider;Organization itself;4813;0.0263;unknown;15-8-2023;21-4-2024
+CMA;Comerica Incorporated;Finance;No;X;X;X;X;X;X;X;X;;;
+CAG;ConAgra Brands, Inc.;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+COP;ConocoPhillips;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+ED;Consolidated Edison, Inc.;Utilities;Yes;08-11-2023;;https://twitter.com/ViralNewsNYC/status/1720136278316855757;https://restoreprivacy.com/hacker-boasts-access-to-conedison-customer-and-contractor-database/;unknown;X;X;X;;6-7-2023;12-3-2024
+STZ;Constellation Brands, Inc.;Consumer Non-Durables;Yes;05-05-2023;;https://financialpost.com/technology/constellation-software-hit-by-cyber-attack-some-personal-information-stolen;;Insider error;Organization itself;2082;0.0240;MNST;31-12-2022;7-9-2023
+CEG;Constellation Energy Corporation;Utilities;Yes;05-05-2023;the same as above;https://financialpost.com/technology/constellation-software-hit-by-cyber-attack-some-personal-information-stolen;;Insider error;Organization itself;unknown;X;;31-12-2022;7-9-2023
+CPRT;Copart, Inc.;Commercial Services;No;X;X;X;X;X;X;X;X;;;
+GLW;Corning Incorporated;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+CTVA;Corteva, Inc.;Process Industries;No;X;X;X;X;X;X;X;X;;;
+CSGP;CoStar Group, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+COST;Costco Wholesale Corporation;Retail Trade;Yes;12-11-2022;;https://www.bleepingcomputer.com/news/security/costco-discloses-data-breach-after-finding-credit-card-skimmer/;https://www.forbes.com/sites/leemathews/2021/11/12/costco-discloses-data-breach-after-finding-card-skimmer-at-one-of-its-stores/?sh=202f72f49fc8;Outsider;Organization itself;5331;0.0245;TGT;10-7-2022;17-3-2023
+CTRA;Coterra Energy Inc.;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+CCI;Crown Castle Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+CSX;CSX Corporation;Transportation;Yes;03-03-2021;;https://www.rtands.com/freight/csx-suffers-data-exposure-by-hackers/;;Insider error;Hacker;4011;0.0244;UNP;29-10-2020;6-7-2021
+CMI;Cummins Inc.;Producer Manufacturing;Yes;15-08-2023;;https://www.prnewswire.com/news-releases/cummins-behavioral-health-systems-inc-data-breach-alert-issued-by-wolf-haldenstein-adler-freeman--herz-llp-301900830.html;;unknown;X;X;X;;12-4-2023;18-12-2023
+CVS;CVS Health Corporation;Retail Trade;Yes;16-06-2021;;https://www.fiercehealthcare.com/tech/cvs-health-database-leak-leaves-1-billion-user-records-exposed-online;;Insider error;Third party;5912;0.0261;ETSY;11-2-2021;19-10-2021
+DHI;D.R. Horton, Inc.;Consumer Durables;No;X;X;X;X;X;X;X;X;;;
+DHR;Danaher Corporation;Health Technology;Yes;15-06-2022;;https://www.turkestrauss.com/2022/06/15/danaher-corporation-data-breach-investigation/;;unknown;X;X;X;;10-2-2022;18-10-2022
+DRI;Darden Restaurants, Inc.;Consumer Services;No;X;X;X;X;X;X;X;X;;;
+DVA;DaVita Inc.;Health Services;Yes;12-09-2022;;https://www.businesswire.com/news/home/20220912005965/en/Federman-Sherwood-Investigates-DaVita-Inc.-for-Data-Breach;https://www.turkestrauss.com/2022/06/06/aon-plc-data-breach-investigation/;unknown;X;X;X;;10-5-2022;15-1-2023
+SRE;DBA Sempra;Utilities;No;X;X;X;X;X;X;X;X;;;
+DE;Deere & Company;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+DAL;Delta Air Lines, Inc.;Transportation;No;X;X;X;X;X;X;X;X;;;
+XRAY;DENTSPLY SIRONA Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+DVN;Devon Energy Corporation;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+DXCM;DexCom, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+FANG;Diamondback Energy, Inc.;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+DLR;Digital Realty Trust, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+DFS;Discover Financial Services;Finance;No;X;X;X;X;X;X;X;X;;;
+DG;Dollar General Corporation;Retail Trade;Yes;29-11-2023;;https://www.bleepingcomputer.com/news/security/dollar-tree-hit-by-third-party-data-breach-impacting-2-million-people/;;Insider error;Organization itself;5331;0.0239;unknown;27-7-2023;2-4-2024
+DLTR;Dollar Tree, Inc.;Retail Trade;Yes;29-11-2023;same as above;https://www.bleepingcomputer.com/news/security/dollar-tree-hit-by-third-party-data-breach-impacting-2-million-people/;;Insider error;Organization itself;5331;0.0237;unknown;27-7-2023;2-4-2024
+D;Dominion Energy, Inc.;Utilities;No;X;X;X;X;X;X;X;X;;;
+DPZ;Domino’s Pizza Inc;Consumer Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+DOV;Dover Corporation;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+DOW;Dow Inc.;Process Industries;No;X;X;X;X;X;X;X;X;;;
+DTE;DTE Energy Company;Utilities;No;X;X;X;X;X;X;X;X;;;
+DUK;Duke Energy Corporation (Holding Company);Utilities;No;X;X;X;X;X;X;X;X;;;
+DD;DuPont de Nemours, Inc.;Process Industries;No;X;X;X;X;X;X;X;X;;;
+DXC;DXC Technology Company;Technology Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+EMN;Eastman Chemical Company;Process Industries;No;X;X;X;X;X;X;X;X;;;
+ETN;Eaton Corporation, PLC;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+EBAY;eBay Inc.;Retail Trade;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+ECL;Ecolab Inc.;Process Industries;No;X;X;X;X;X;X;X;X;;;
+EIX;Edison International;Utilities;Yes;08-11-2023;;https://restoreprivacy.com/hacker-boasts-access-to-conedison-customer-and-contractor-database/;;unknown;X;X;X;;6-7-2023;12-3-2024
+EW;Edwards Lifesciences Corporation;Health Technology;No;X;X;X;X;X;X;X;X;;;
+EA;Electronic Arts Inc.;Technology Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+ELV;Elevance Health, Inc.;Health Services;Yes;23-05-2023;;https://www.myinjuryattorney.com/data-breach-alert-elevance-health-flexible-benefit-plan/;https://www.jdsupra.com/legalnews/elevance-health-flexible-benefit-plan-1594932/;Insider error;Hacker;6311 & 6331;0.0251;AIZ;18-1-2023;25-9-2023
+LLY;Eli Lilly and Company;Health Technology;Yes;16-11-2022;;https://techgenix.com/eli-lilly-loses-billions-social-engineering-attack/;;Insider error;Hacker;2834;0.0244;ABT;14-7-2022;21-3-2023
+EMR;Emerson Electric Company;Electronic Technology;Yes;12-07-2023;MOVEit;https://www.emerson.com/documents/corporate/moveit-security-incident-en-9248076.pdf;;Outsider;Organization itself;3823;0.0237;ROP;9-3-2023;14-11-2023
+ENPH;Enphase Energy, Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+ETR;Entergy Corporation;Utilities;No;X;X;X;X;X;X;X;X;;;
+EOG;EOG Resources, Inc.;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+EPAM;EPAM Systems, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+EQT;EQT Corporation;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+EFX;Equifax, Inc.;Commercial Services;No;X;X;X;X;X;X;X;X;;;
+EQIX;Equinix, Inc.;Finance;Yes;09-09-2020;;https://blog.equinix.com/blog/2020/09/09/equinix-statement-on-security-incident/;;Insider error;Organization itself;4813;0.0239;CCI;7-5-2020;12-1-2021
+EQR;Equity Residential;Finance;No;X;X;X;X;X;X;X;X;;;
+ESS;Essex Property Trust, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+EL;Estee Lauder Companies, Inc. (The);Consumer Non-Durables;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+ETSY;Etsy, Inc.;Retail Trade;No;X;X;X;X;X;X;X;X;;;
+EG;Everest Group, Ltd.;Finance;No;X;X;X;X;X;X;X;X;;;
+EVRG;Evergy, Inc.;Utilities;No;X;X;X;X;X;X;X;X;;;
+ES;Eversource Energy (D/B/A);Utilities;Yes;;multiple breaches;X;X;X;X;X;X;;;
+EXC;Exelon Corporation;Utilities;No;X;X;X;X;X;X;X;X;;;
+EXPE;Expedia Group, Inc.;Consumer Services;Yes;12-11-2020;;https://www.independent.co.uk/travel/news-and-advice/expedia-data-breach-hotel-software-prestige-booking-b1720489.html;;Insider error;Third party;4724;0.0238;CHRW;10-7-2020;17-3-2021
+EXPD;Expeditors International of Washington, Inc.;Transportation;Yes;20-02-2022;;https://investor.expeditors.com/press-releases/2022/02-21-2022-032617120;;Insider error;Organization itself;4731;0.0220;unknown;18-10-2021;25-6-2022
+EXR;Extra Space Storage Inc;Finance;No;X;X;X;X;X;X;X;X;;;
+XOM;Exxon Mobil Corporation;Energy Minerals;Yes;13-10-2023;;https://www.reuters.com/world/us/mercenary-hackers-stole-data-that-exxon-later-cited-climate-lawsuits-us-2023-10-12/;;Malicious insider;Organization itself;2911;0.0266;MPC;10-6-2023;15-2-2024
+FFIV;F5, Inc.;Technology Services;Yes;01-11-2023;;https://www.bleepingcomputer.com/news/security/hackers-exploit-recent-f5-big-ip-flaws-in-stealthy-attacks/;;Outsider;Organization itself;7371;0.0219;VRSN;29-6-2023;5-3-2024
+FDS;FactSet Research Systems Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+FICO;Fair Isaac Corporation;Technology Services;No;X;X;X;X;X;X;X;X;;;
+FAST;Fastenal Company;Distribution Services;No;X;X;X;X;X;X;X;X;;;
+FRT;Federal Realty Investment Trust;Finance;No;X;X;X;X;X;X;X;X;;;
+FDX;FedEx Corporation;Transportation;No;X;X;X;X;X;X;X;X;;;
+FIS;Fidelity National Information Services, Inc.;Technology Services;Yes;22-11-2023;;https://www.pymnts.com/cybersecurity/2023/fidelity-national-financial-all-locked-up-after-cyberattack/;;Insider error;Organization itself;6141;0.0252;V;20-7-2023;26-3-2024
+FITB;Fifth Third Bancorp;Finance;Yes;11-02-2020;;https://www.bizjournals.com/cincinnati/news/2020/02/11/fifth-third-customers-hit-by-data-breach-involving.html;;Malicious insider;Organization itself;6712;0.0259;CFG;9-10-2019;15-6-2020
+FSLR;First Solar, Inc.;Electronic Technology;No;X;X;X;X;x;X;X;X;;;
+FE;FirstEnergy Corp.;Utilities;Yes;06-09-2021;;https://www.news5cleveland.com/news/local-news/firstenergy-locks-online-accounts-asks-customers-to-reset-passwords-after-attempted-breach;;Insider error;Organization itself;4911;0.0245;DTE;4-5-2021;9-1-2022
+FI;Fiserv, Inc.;Finance;Yes;06-10-2023;MOVEit;https://www.jdsupra.com/legalnews/flagstar-bank-n-a-announces-third-party-6847055/;;Outsider;Organization itself;7374;0.0251;ORCL;3-6-2023;8-2-2024
+FLT;FleetCor Technologies, Inc.;Commercial Services;No;X;X;X;X;X;X;X;X;;;
+FMC;FMC Corporation;Process Industries;No;X;X;X;X;X;X;X;X;;;
+F;Ford Motor Company;Consumer Durables;No;X;X;X;X;X;X;X;X;;;
+FTNT;Fortinet, Inc.;Technology Services;Yes;17-09-2021;;https://www.stealthlabs.com/news/security-firm-fortinet-suffers-cyberattack-almost-500000-vpn-account-credentials-leaked/;;Insider error;Organization itself;3577;0.0221;HPQ;15-5-2021;20-1-2022
+FTV;Fortive Corporation;Electronic Technology;Yes;26-10-2023;;https://hackmanac.com/news/hacks-of-today-26-10-2023;;Insider error;unknown;X;X;;23-6-2023;28-2-2024
+FOX;Fox Corporation;Consumer Services;Yes;07-04-2022;;https://www.newsweek.com/fox-news-data-leak-employee-information-1695893;;Insider error;Third party;7812;unknown;;3-12-2021;10-8-2022
+FOXA;Fox Corporation;Consumer Services;Yes;07-04-2022;same as above;https://www.newsweek.com/fox-news-data-leak-employee-information-1695893;;Insider error;Third party;4833;0.0237;unknown;3-12-2021;10-8-2022
+BEN;Franklin Resources, Inc.;Finance;Yes;25-05-2023;;https://www.jdsupra.com/legalnews/franklin-templeton-investments-4161202/;;Outsider;Organization itself;6712;0.0234;IVZ;20-1-2023;27-9-2023
+FCX;Freeport-McMoRan, Inc.;Non-Energy Minerals;Yes;11-08-2023;;https://investors.fcx.com/investors/news-releases/news-release-details/2023/Freeport-McMoRan-Investigating-Cybersecurity-Incident/default.aspx;;Outsider;Organization itself;1021;0.0244;NEM;8-4-2023;14-12-2023
+GRMN;Garmin Ltd.;Electronic Technology;Yes;27-07-2020;;https://www.garmin.com/en-US/newsroom/press-release/uncategorized/2020-garmin-issues-statement-on-recent-outage/;;Insider error;Organization itself;3669 & 6712 & 6719 & 6722;0.0225;unknown;24-3-2020;29-11-2020
+IT;Gartner, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+GEHC;GE HealthCare Technologies Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+GEN;Gen Digital Inc.;Technology Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+GNRC;Generac Holdings Inc.;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+GD;General Dynamics Corporation;Electronic Technology;Yes;02-03-2020;;https://www.c4isrnet.com/2020/03/02/a-hacker-group-says-it-has-major-defense-companies-data/;;Insider error;Hacker;3721;0.0246;TDG;29-10-2019;5-7-2020
+GE;General Electric Company;Producer Manufacturing;Yes;25-11-2023;;https://www.bleepingcomputer.com/news/security/general-electric-investigates-claims-of-cyber-attack-data-theft/;;Insider error;Hacker;3724;0.0263;unknown;23-7-2023;29-3-2024
+GIS;General Mills, Inc.;Consumer Non-Durables;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+GM;General Motors Company;Consumer Durables;Yes;23-05-2022;;https://www.bleepingcomputer.com/news/security/general-motors-credential-stuffing-attack-exposes-car-owners-info/;;Outsider;Organization itself;3711;0.0262;F;18-1-2022;25-9-2022
+GPC;Genuine Parts Company;Distribution Services;No;X;X;X;X;X;X;X;X;;;
+GILD;Gilead Sciences, Inc.;Health Technology;Yes;08-05-2020;;https://www.forbes.com/sites/sergeiklebnikov/2020/05/08/gilead-sciences-targeted-by-iranian-linked-hackers-report/;;Insider error;Third party;2836;0.0248;A;4-1-2020;10-9-2020
+GPN;Global Payments Inc.;Commercial Services;No;X;X;X;X;X;X;X;X;;;
+GL;Globe Life Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+GS;Goldman Sachs Group, Inc. (The);Finance;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+HAL;Halliburton Company;Industrial Services;Yes;03-07-2023;;https://cyberscoop.com/siegedsec-hack-transition-bans-satellite-systems/;;unknown;X;X;X;;28-2-2023;5-11-2023
+HIG;Hartford Financial Services Group, Inc. (The);Finance;No;X;X;X;X;X;X;X;X;;;
+HAS;Hasbro, Inc.;Consumer Durables;No;X;X;X;X;X;X;X;X;;;
+HCA;HCA Healthcare, Inc.;Health Services;Yes;10-07-2023;;https://investor.hcahealthcare.com/news/news-details/2023/HCA-Healthcare-Reports-Data-Security-Incident/default.aspx;;Outsider;Hacker;8062;0.0245;LH;7-3-2023;12-11-2023
+PEAK;Healthpeak Properties, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+HSIC;Henry Schein, Inc.;Distribution Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+HES;Hess Corporation;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+HPE;Hewlett Packard Enterprise Company;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+HLT;Hilton Worldwide Holdings Inc.;Consumer Services;No;X;X;X;X;X;X;X;X;;;
+HOLX;Hologic, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+HD;Home Depot, Inc. (The);Retail Trade;No;X;X;X;X;X;X;X;X;;;
+HON;Honeywell International Inc.;Electronic Technology;Yes;25-07-2023;MOVEit;https://www.jdsupra.com/legalnews/honeywell-confirms-confidential-3420270/;;Outsider;Organization itself;3714;0.0248;APTV;22-3-2023;27-11-2023
+HRL;Hormel Foods Corporation;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+HST;Host Hotels;Finance;No;X;X;X;X;X;X;X;X;;;
+HWM;Howmet Aerospace Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+HPQ;HP Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+HUM;Humana Inc.;Health Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+HBAN;Huntington Bancshares Incorporated;Finance;Yes;01-09-2023;MOVEit;https://www.thelyonfirm.com/blog/alogent-data-breach-huntington-bank/;;Outsider;Organization itself;6712;0.0254;CME;29-4-2023;4-1-2024
+HII;Huntington Ingalls Industries, Inc.;Electronic Technology;Yes;19-04-2023;;https://www.jdsupra.com/legalnews/huntington-ingalls-industries-files-3524071/;;Outsider;Organization itself;3721;0.0227;TXT;15-12-2022;22-8-2023
+IEX;IDEX Corporation;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+IDXX;IDEXX Laboratories, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+ITW;Illinois Tool Works Inc.;Producer Manufacturing;Yes;31-10-2023;;https://www.jdsupra.com/legalnews/itw-food-equipment-group-announces-data-8518481/;;Insider error;Organization itself;3569;0.0234;XYL;28-6-2023;4-3-2024
+ILMN;Illumina, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+INCY;Incyte Corporation;Health Technology;No;X;X;X;X;X;X;X;X;;;
+IR;Ingersoll Rand Inc.;Producer Manufacturing;Yes;28-03-2023;;https://www.breachsense.com/breaches/ingersoll-rand-data-breach/;;Insider error;unknown;X;X;;23-11-2022;31-7-2023
+PODD;Insulet Corporation;Health Technology;Yes;19-01-2023;;https://www.hipaajournal.com/tracking-code-privacy-incident-affects-29000-insulet-corporation-customers/;;Insider error;Organization itself;3841;0.0209;WST;16-9-2022;24-5-2023
+INTC;Intel Corporation;Electronic Technology;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+ICE;Intercontinental Exchange Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+IBM;International Business Machines Corporation;Technology Services;Yes;07-09-2023;;https://www.securityweek.com/ibm-discloses-data-breach-impacting-janssen-healthcare-platform/;;Outsider;Third party;7373;0.0257;GOOGL;5-5-2023;10-1-2024
+IFF;International Flavors & Fragrances, Inc.;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+IP;International Paper Company;Process Industries;Yes;25-11-2023;;https://www.myinjuryattorney.com/data-breach-investigation-international-paper-company-group-health-and-welfare-plan/;;Insider error;Organization itself;2621;0.0242;AMCR;23-7-2023;29-3-2024
+IPG;Interpublic Group of Companies, Inc. (The);Commercial Services;No;X;X;X;X;X;X;X;X;;;
+INTU;Intuit Inc.;Technology Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+ISRG;Intuitive Surgical, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+IVZ;Invesco Ltd;Finance;No;X;X;X;X;X;X;X;X;;;
+INVH;Invitation Homes Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+IQV;IQVIA Holdings, Inc.;Health Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+IRM;Iron Mountain Incorporated (Delaware);Finance;No;X;X;X;X;X;X;X;X;;;
+JBHT;J.B. Hunt Transport Services, Inc.;Transportation;Yes;26-10-2021;;https://www.justice4you.com/blog/jb-hunt-data-breach.html;;Insider error;unknown;X;X;;23-6-2021;28-2-2022
+SJM;J.M. Smucker Company (The) New;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+JKHY;Jack Henry & Associates, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+J;Jacobs Solutions Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+JNJ;Johnson & Johnson;Health Technology;Yes;07-09-2023;;https://www.infosecurity-magazine.com/news/ibm-patient-data-breach-johnson/;;Outsider;Third party;2834;0.0258;REGN;5-5-2023;10-1-2024
+JCI;Johnson Controls International plc;Producer Manufacturing;Yes;02-10-2023;;https://www.cpomagazine.com/cyber-security/johnson-controls-international-suffered-a-massive-ransomware-attack-potentially-impacting-the-dhs/;;Insider error;Organization itself;3585;0.0245;CARR;30-5-2023;4-2-2024
+JPM;JP Morgan Chase & Co.;Finance;Yes;09-08-2021;;https://www.infosecurity-magazine.com/news/jpmorgan-chase-notifies-customers/;;Insider error;Organization itself;6712;0.0286;BAC;6-4-2021;12-12-2021
+JNPR;Juniper Networks, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+K;Kellogg Company;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+KDP;Keurig Dr Pepper Inc.;Consumer Non-Durables;Yes;27-01-2023;;https://thecyberexpress.com/data-breach-dr-pepper-russia-branch/;;Outsider;Organization itself;2086;0.0246;unknown;24-9-2022;1-6-2023
+KEY;KeyCorp;Finance;Yes;30-08-2022;;https://www.jdsupra.com/legalnews/keybank-announces-third-party-data-8464347/;;Insider error;Organization itself;6712;0.0257;AXP;27-4-2022;2-1-2023
+KEYS;Keysight Technologies Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+KMB;Kimberly-Clark Corporation;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+KIM;Kimco Realty Corporation (HC);Finance;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+KMI;Kinder Morgan, Inc.;Industrial Services;Yes;18-03-2022;;https://www.cpomagazine.com/cyber-security/cyber-attack-targeted-21-natural-gas-producers-on-the-eve-of-the-russian-invasion-of-ukraine/;;Outsider;Organization itself;4922;0.0250;WMB;13-11-2021;21-7-2022
+KLAC;KLA Corporation;Electronic Technology;Yes;X;no open source;X;X;X;X;X;X;;;
+KR;Kroger Company (The);Retail Trade;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+LHX;L3Harris Technologies, Inc.;Electronic Technology;Yes;16-05-2023;;https://eu.floridatoday.com/story/money/business/2023/05/16/did-l3harris-lose-defense-data-to-hackers/70222535007/;;Insider error;Third party;3669;0.0244;unknown;11-1-2023;18-9-2023
+LH;Laboratory Corporation of America Holdings;Health Services;Yes;X;no open source;X;X;X;X;X;X;;;
+LRCX;Lam Research Corporation;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+LW;Lamb Weston Holdings, Inc.;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+LVS;Las Vegas Sands Corp.;Consumer Services;Yes;07-11-2023;;https://casinobeats.com/2023/11/07/marina-bay-sands-data-security-breach/;;Insider error;Organization itself;7011;0.0239;unknown;5-7-2023;11-3-2024
+LDOS;Leidos Holdings, Inc.;Electronic Technology;Yes;13-06-2023;;https://www.turkestrauss.com/2023/06/13/leidos-data-breach-investigation/;;Outsider;Organization itself;7373;0.0230;JKHY;8-2-2023;16-10-2023
+LEN;Lennar Corporation;Consumer Durables;Yes;11-10-2023;;https://www.turkestrauss.com/2023/10/11/lennar-data-breach-investigation/;;unknown;X;X;X;;8-6-2023;13-2-2024
+LNC;Lincoln National Corporation;Finance;No;X;X;X;X;X;X;X;X;;;
+LIN;Linde plc;Process Industries;No;X;X;X;X;X;X;X;X;;;
+LYV;Live Nation Entertainment, Inc.;Consumer Services;Yes;23-01-2023;;https://www.politico.com/news/2023/01/23/ticketmaster-cyberattack-taylor-swift-tickets-00079119;;Outsider;Organization itself;7941;0.0231;unknown;20-9-2022;28-5-2023
+LKQ;LKQ Corporation;Consumer Durables;No;X;X;X;X;X;X;X;X;;;
+LMT;Lockheed Martin Corporation;Electronic Technology;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+L;Loews Corporation;Finance;No;X;X;X;X;X;X;X;X;;;
+LOW;Lowe’s Companies, Inc.;Retail Trade;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+LYB;LyondellBasell Industries NV;Process Industries;No;X;X;X;X;X;X;X;X;;;
+MTB;M&T Bank Corporation;Finance;Yes;X;no open source;X;X;X;X;X;X;;;
+MRO;Marathon Oil Corporation;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+MPC;Marathon Petroleum Corporation;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+MKTX;MarketAxess Holdings, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+MAR;Marriott International;Consumer Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+MMC;Marsh & McLennan Companies, Inc.;Finance;Yes;06-07-2021;;https://www.businessinsurance.com/article/20210706/NEWS06/912343010/Marsh-McLennan-reveals-April-data-breach;;Outsider;Organization itself;6411;0.0242;unknown;3-3-2021;8-11-2021
+MLM;Martin Marietta Materials, Inc.;Non-Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+MAS;Masco Corporation;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+MA;Mastercard Incorporated;Commercial Services;No;X;X;X;X;X;X;X;X;;;
+MTCH;Match Group, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+MKC;McCormick & Company, Incorporated;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+MCD;McDonald’s Corporation;Consumer Services;Yes;11-06-2021;;https://edition.cnn.com/2021/06/11/business/mcdonalds-data-breach/index.html;;Insider error;Organization itself;5812;0.0246;MKC;6-2-2021;14-10-2021
+MCK;McKesson Corporation;Distribution Services;No;X;X;X;X;X;X;X;X;;;
+MDT;Medtronic plc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+MRK;Merck & Company, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+META;Meta Platforms, Inc.;Technology Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+MET;MetLife, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+MTD;Mettler-Toledo International, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+MGM;MGM Resorts International;Consumer Services;Yes;05-10-2023;;https://investors.mgmresorts.com/investors/news-releases/press-release-details/2023/MGM-RESORTS-UPDATE-ON-RECENT-CYBERSECURITY-ISSUE/default.aspx;;Insider error;Organization itself;7011;0.0242;unknown;2-6-2023;7-2-2024
+MCHP;Microchip Technology Incorporated;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+MU;Micron Technology, Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+MSFT;Microsoft Corporation;Technology Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+MAA;Mid-America Apartment Communities, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+MRNA;Moderna, Inc.;Health Technology;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+MHK;Mohawk Industries, Inc.;Non-Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+MOH;Molina Healthcare Inc;Health Services;Yes;22-11-2023;;https://hhs.iowa.gov/about/newsroom/data-breach-notifications;;Insider error;Organization itself;6311 & 6331;0.0226;ACGL;20-7-2023;26-3-2024
+TAP;Molson Coors Beverage Company;Consumer Non-Durables;Yes;11-03-2021;;https://www.zdnet.com/article/molson-coors-discloses-cyberattack-disrupting-its-brewery-operations/;;Insider error;Organization itself;2082;0.0241;unknown;6-11-2020;14-7-2021
+MDLZ;Mondelez International, Inc.;Consumer Non-Durables;Yes;16-06-2023;;https://www.jdsupra.com/legalnews/mondelez-global-llc-announces-third-1169320/;;Insider error;Organization itself;2022;0.0249;unknown;11-2-2023;19-10-2023
+MPWR;Monolithic Power Systems, Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+MNST;Monster Beverage Corporation;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+MCO;Moody’s Corporation;Commercial Services;Yes;01-05-2023;;https://www.turkestrauss.com/2023/05/01/moody-national-companies-data-breach-investigation/;;Insider error;Organization itself;7323;0.0231;EFX;27-12-2022;3-9-2023
+MS;Morgan Stanley;Finance;No;X;X;X;X;X;X;X;X;;;
+MOS;Mosaic Company (The);Process Industries;No;X;X;X;X;X;X;X;X;;;
+MSI;Motorola Solutions, Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+MSCI;MSCI Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+NDAQ;Nasdaq, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+NTAP;NetApp, Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+NFLX;Netflix, Inc.;Technology Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+NWL;Newell Brands Inc.;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+NEM;Newmont Corporation;Non-Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+NWS;News Corporation;Consumer Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+NWSA;News Corporation;Consumer Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+NEE;NextEra Energy, Inc.;Utilities;No;X;X;X;X;X;X;X;X;;;
+NKE;Nike, Inc.;Consumer Non-Durables;Yes;04-10-2021;;https://topclassactions.com/lawsuit-settlements/privacy/nike-inc-illegally-records-private-information-when-customers-use-nike-website-a-new-class-action-alleges/;;Malicious insider;Organization itself;3021;0.0239;NWL;1-6-2021;6-2-2022
+NI;NiSource Inc;Utilities;No;X;X;X;X;X;X;X;X;;;
+NDSN;Nordson Corporation;Producer Manufacturing;Yes;21-12-2022;;https://www.turkestrauss.com/2022/12/21/cyberoptics-data-breach-investigation/;;unknown;X;X;X;;18-8-2022;25-4-2023
+NSC;Norfolk Southern Corporation;Transportation;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+NTRS;Northern Trust Corporation;Finance;Yes;02-09-2022;;https://www.jdsupra.com/legalnews/northern-trust-corporation-reports-data-8388802/;;Outsider;unknown;X;X;;30-4-2022;5-1-2023
+NOC;Northrop Grumman Corporation;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+NCLH;Norwegian Cruise Line Holdings Ltd.;Consumer Services;Yes;20-03-2020;;https://www.infosecurity-magazine.com/news/norwegian-cruise-line-suffers-data/;;Outsider;Third party;4481;0.0235;RCL;16-11-2019;23-7-2020
+NRG;NRG Energy, Inc.;Utilities;No;;X;X;X;X;X;X;X;;;
+NUE;Nucor Corporation;Non-Energy Minerals;Yes;04-07-2023;;https://beyondmachines.net/event_details/nucor-corporation-impacted-by-data-breach-exposing-nearly-9000-people-l-o-i-s-b;;Outsider;Organization itself;3312;0.0236;STLD;1-3-2023;6-11-2023
+NVDA;NVIDIA Corporation;Electronic Technology;Yes;03-03-2022;;https://www.bleepingcomputer.com/news/security/nvidia-data-breach-exposed-credentials-of-over-71-000-employees/;;Insider error;Organization itself;3674;0.0236;TXN;29-10-2021;6-7-2022
+NVR;NVR, Inc.;Consumer Durables;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+NXPI;NXP Semiconductors NV.;Electronic Technology;Yes;05-09-2023;;https://techcrunch.com/2023/09/05/chipmaker-nxp-confirms-data-breach-involving-customers-information/;;Outsider;Hacker;3674;0.0238;APH;3-5-2023;8-1-2024
+ORLY;O’Reilly Automotive, Inc.;Retail Trade;No;X;X;X;X;X;X;X;X;;;
+OXY;Occidental Petroleum Corporation;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+ODFL;Old Dominion Freight Line, Inc.;Transportation;Yes;11-04-2023;;https://www.classaction.org/news/old-dominion-employee-fingerprint-scans-violate-illinois-privacy-law-class-action-claims;;Malicious insider;Organization itself;4213;0.0221;IRM;7-12-2022;14-8-2023
+OMC;Omnicom Group Inc.;Commercial Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+ON;ON Semiconductor Corporation;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+OKE;ONEOK, Inc.;Industrial Services;No;X;X;X;X;X;X;X;X;;;
+ORCL;Oracle Corporation;Technology Services;No;X;X;X;X;X;X;X;X;;;
+OGN;Organon & Co.;Health Technology;Yes;X;no open source;X;X;X;X;X;X;;;
+OTIS;Otis Worldwide Corporation;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+PCAR;PACCAR Inc.;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+PCG;Pacific Gas & Electric Co.;Utilities;No;X;X;X;X;X;X;X;X;;;
+PKG;Packaging Corporation of America;Process Industries;No;X;X;X;X;X;X;X;X;;;
+PANW;Palo Alto Networks, Inc.;Technology Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+PARA;Paramount Global;Consumer Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+PH;Parker-Hannifin Corporation;Producer Manufacturing;Yes;05-04-2022;;https://www.securityweek.com/ransomware-gang-leaks-files-stolen-industrial-giant-parker-hannifin/;;Insider error;Organization itself;3492;0.0236;PNR;1-12-2021;8-8-2022
+PAYX;Paychex, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+PAYC;Paycom Software, Inc.;Technology Services;Yes;02-08-2023;;https://www.businesswire.com/news/home/20230802265829/en/Federman-Sherwood-Investigates-Paycom-Payroll-LLC-for-Data-Breach;;Insider error;Organization itself;7372;0.0216;PTC;30-3-2023;5-12-2023
+PYPL;PayPal Holdings, Inc.;Commercial Services;Yes;19-01-2023;;https://www.bleepingcomputer.com/news/security/paypal-accounts-breached-in-large-scale-credential-stuffing-attack/#google_vignette;;Outsider;Organization itself;7372;0.0247;ADP;16-9-2022;24-5-2023
+PNR;Pentair plc.;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+PEP;PepsiCo, Inc.;Consumer Non-Durables;Yes;13-02-2023;;https://www.bleepingcomputer.com/news/security/pepsi-bottling-ventures-suffers-data-breach-after-malware-attack/;;Outsider;Organization itself;2086;0.0251;unknown;11-10-2022;18-6-2023
+PFE;Pfizer, Inc.;Health Technology;Yes;09-12-2020;;https://www.reuters.com/article/idUSKBN28J1VF/;;Insider error;Third party;2834;0.0258;VRTX;6-8-2020;13-4-2021
+PM;Philip Morris International Inc;Consumer Non-Durables;Yes;11-05-2023;;https://www.dailydot.com/debug/optimeyes-4chan-exposes-philip-morris-hack-data/;;Outsider;Hacker;2111;0.0245;MO;6-1-2023;13-9-2023
+PSX;Phillips 66;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+PNW;Pinnacle West Capital Corporation;Utilities;No;X;X;X;X;X;X;X;X;;;
+PXD;Pioneer Natural Resources Company;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+PNC;PNC Financial Services Group, Inc. (The);Finance;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+POOL;Pool Corporation;Distribution Services;No;X;X;X;X;X;X;X;X;;;
+PPG;PPG Industries, Inc.;Process Industries;No;X;X;X;X;X;X;X;X;;;
+PPL;PPL Corporation;Utilities;No;X;X;X;X;X;X;X;X;;;
+PFG;Principal Financial Group Inc;Finance;No;X;X;X;X;X;X;X;X;;;
+PG;Procter & Gamble Company (The);Consumer Non-Durables;Yes;24-03-2023;;https://www.bleepingcomputer.com/news/security/procter-and-gamble-confirms-data-theft-via-goanywhere-zero-day/;;Insider error;Organization itself;2841;0.0255;CHD;19-11-2022;27-7-2023
+PGR;Progressive Corporation (The);Finance;Yes;02-08-2023;;https://www.jdsupra.com/legalnews/progressive-insurance-notifies-347-100-3669920/;;Insider error;Organization itself;6311 & 6331;0.0247;EG;30-3-2023;5-12-2023
+PLD;Prologis, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+PRU;Prudential Financial, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+PTC;PTC Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+PEG;Public Service Enterprise Group Incorporated;Utilities;No;X;X;X;X;X;X;X;X;;;
+PSA;Public Storage;Finance;No;X;X;X;X;X;X;X;X;;;
+PHM;PulteGroup, Inc.;Consumer Durables;Yes;09-03-2022;;https://www.jdsupra.com/legalnews/data-breach-alert-pulte-mortgage-llc-8051682/;;Insider error;Organization itself;1531;0.0231;DHI;4-11-2021;12-7-2022
+QRVO;Qorvo, Inc.;Electronic Technology;Yes;27-12-2023;;https://www.turkestrauss.com/2023/12/27/qorvo-data-breach-investigation/;;Insider error;Organization itself;3674;0.0226;KLAC;24-8-2023;30-4-2024
+QCOM;QUALCOMM Incorporated;Electronic Technology;Yes;24-03-2022;;https://securityboulevard.com/2022/03/qualcomm-wed-like-our-ip-back-please/;;Malicious insider;Organization itself;3663;0.0242;MSI;19-11-2021;27-7-2022
+PWR;Quanta Services, Inc.;Industrial Services;Yes;21-04-2021;;https://www.theverge.com/2021/4/21/22396283/apple-schematics-leak-ransomware-quanta-supplier-leak;;Insider error;Hacker;1731;0.0228;unknown;17-12-2020;24-8-2021
+DGX;Quest Diagnostics Incorporated;Health Services;No;X;X;X;X;X;X;X;X;;;
+RL;Ralph Lauren Corporation;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+RJF;Raymond James Financial, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+O;Realty Income Corporation;Finance;No;X;X;X;X;X;X;X;X;;;
+REG;Regency Centers Corporation;Finance;No;X;X;X;X;X;X;X;X;;;
+REGN;Regeneron Pharmaceuticals, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+RF;Regions Financial Corporation;Finance;No;X;X;X;X;X;X;X;X;;;
+RSG;Republic Services, Inc.;Industrial Services;No;X;X;X;X;X;X;X;X;;;
+RMD;ResMed Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+RVTY;Revvity, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+RHI;Robert Half Inc.;Commercial Services;No;X;X;X;X;X;X;X;X;;;
+ROK;Rockwell Automation, Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+ROL;Rollins, Inc.;Consumer Services;No;X;X;X;X;X;X;X;X;;;
+ROP;Roper Technologies, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+ROST;Ross Stores, Inc.;Retail Trade;No;X;X;X;X;X;X;X;X;;;
+RCL;Royal Caribbean Cruises Ltd.;Consumer Services;No;X;X;X;X;X;X;X;X;;;
+RTX;RTX Corporation;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+SPGI;S&P Global Inc.;Commercial Services;No;X;X;X;X;X;X;X;X;;;
+CRM;Salesforce, Inc.;Technology Services;Yes;27-04-2023;;https://krebsonsecurity.com/2023/04/many-public-salesforce-sites-are-leaking-private-data/;;Insider error;Third party;7372;0.0247;unknown;23-12-2022;30-8-2023
+SBAC;SBA Communications Corporation;Finance;Yes;22-04-2020;;https://www.manageengine.com/log-management/data-breaches/small-business-administration-sba-data-breach.html;;Insider error;Organization itself;4899;0.0230;ARE;19-12-2019;25-8-2020
+SLB;Schlumberger NV.;Industrial Services;Yes;07-12-2023;MOVEit;https://www.slb.com/resource-library/updates/2023/update-on-moveit-transfer-cyber-security-event;;Outsider;Organization itself;1389;0.0248;BALL;4-8-2023;10-4-2024
+STX;Seagate Technology Holdings PLC;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+SEE;Sealed Air Corporation;Process Industries;No;X;X;X;X;X;X;X;X;;;
+NOW;ServiceNow, Inc.;Technology Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+SHW;Sherwin-Williams Company (The);Process Industries;Yes;30-08-2023;;https://www.breachsense.com/breaches/sherwin-williams-data-breach/;;unknown;X;X;X;;27-4-2023;2-1-2024
+SPG;Simon Property Group, Inc.;Finance;Yes;31-08-2023;;https://www.securityweek.com/500k-impacted-by-data-breach-at-fashion-retailer-forever-21/;;Insider error;Organization itself;6798;0.0242;WELL;28-4-2023;3-1-2024
+SWKS;Skyworks Solutions, Inc.;Electronic Technology;Yes;28-06-2020;;https://www.securityweek.com/man-convicted-stealing-high-tech-trade-secrets-china/;;Malicious insider;Organization itself;3674;0.0223;FSLR;24-2-2020;31-10-2020
+SNA;Snap-On Incorporated;Consumer Durables;Yes;08-04-2022;;https://www.bleepingcomputer.com/news/security/snap-on-discloses-data-breach-claimed-by-conti-ransomware-gang/;;Insider error;Organization itself;3423;0.0225;unknown;4-12-2021;11-8-2022
+SEDG;SolarEdge Technologies, Inc.;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+SO;Southern Company (The);Utilities;No;X;X;X;X;X;X;X;X;;;
+LUV;Southwest Airlines Company;Transportation;Yes;24-06-2023;;https://www.bleepingcomputer.com/news/security/american-airlines-southwest-airlines-disclose-data-breaches-affecting-pilots/;;Outsider;Organization itself;4512;0.0240;ALK;19-2-2023;27-10-2023
+SWK;Stanley Black & Decker, Inc.;Consumer Durables;No;X;X;X;X;X;X;X;X;;;
+SBUX;Starbucks Corporation;Consumer Services;Yes;16-09-2022;;https://www.straitstimes.com/singapore/330000-starbucks-customers-data-leaked-sold-online-for-3500;;Insider error;Hacker;5812;0.0237;DRI;14-5-2022;19-1-2023
+STT;State Street Corporation;Finance;No;X;X;X;X;X;X;X;X;;;
+STLD;Steel Dynamics, Inc.;Non-Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+STE;STERIS plc (Ireland);Health Technology;Yes;25-02-2021;Cl0p;https://www.infosecurity-magazine.com/news/steris-touted-as-latest-accellion/;;Insider error;Hacker;3842;0.0224;EW;23-10-2020;30-6-2021
+SYK;Stryker Corporation;Health Technology;Yes;07-03-2023;;https://www.mlive.com/news/kalamazoo/2023/03/employee-stole-trade-secrets-from-stryker-lawsuit-alleges.html;;Malicious insider;Organization itself;3841;0.0241;BDX;2-11-2022;10-7-2023
+SYF;Synchrony Financial;Finance;No;X;X;X;X;X;X;X;X;;;
+SNPS;Synopsys, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+SYY;Sysco Corporation;Transportation;Yes;09-05-2023;;https://www.bleepingcomputer.com/news/security/food-distribution-giant-sysco-warns-of-data-breach-after-cyberattack/;;Insider error;Organization itself;5141;0.0236;LW;4-1-2023;11-9-2023
+TMUS;T-Mobile US, Inc.;Communications;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+TROW;T. Rowe Price Group, Inc.;Finance;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+TTWO;Take-Two Interactive Software, Inc.;Technology Services;Yes;19-09-2022;;https://www.darkreading.com/cyberattacks-data-breaches/rockstar-games-confirms-grand-theft-auto-6-breach;;Outsider;Hacker;7372;0.0223;CDNS;17-5-2022;22-1-2023
+TPR;Tapestry, Inc.;Retail Trade;No;X;X;X;X;X;X;X;X;;;
+TRGP;Targa Resources, Inc.;Utilities;No;X;X;X;X;X;X;X;X;;;
+TGT;Target Corporation;Retail Trade;No;X;X;X;X;X;X;X;X;;;
+TEL;TE Connectivity Ltd. New Switzerland Registered Shares;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+TDY;Teledyne Technologies Incorporated;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+TFX;Teleflex Incorporated;Health Technology;No;X;X;X;X;X;X;X;X;;;
+TER;Teradyne, Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+TSLA;Tesla, Inc.;Consumer Durables;Yes;21-09-2023;;https://www.theverge.com/2023/8/21/23839940/tesla-data-leak-inside-job-handelsblatt;;Malicious insider;Third party;3711;0.0243;PCAR;19-5-2023;24-1-2024
+TXN;Texas Instruments Incorporated;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+TXT;Textron Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+AES;The AES Corporation;Utilities;No;X;X;X;X;X;X;X;X;;;
+BK;The Bank of New York Mellon Corporation;Finance;Yes;18-05-2023;;https://www.jdsupra.com/legalnews/bny-mellon-files-notice-of-data-breach-6827427/;;unknown;X;X;X;;13-1-2023;20-9-2023
+CI;The Cigna Group;Health Services;Yes;31-08-2023;;https://www.hackread.com/cigna-health-data-leak-17-billion-records-exposed/;;Insider error;Third party;6311 & 6331;0.0258;AIG;28-4-2023;3-1-2024
+COO;The Cooper Companies, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+HSY;The Hershey Company;Consumer Non-Durables;Yes;05-12-2023;;https://6abc.com/the-hershey-company-data-breach-pennsylvania-was-i-hacked/14142439/;;Insider error;Organization itself;2066;0.0228;HRL;2-8-2023;8-4-2024
+KHC;The Kraft Heinz Company;Consumer Non-Durables;Yes;14-12-2023;;https://www.bleepingcomputer.com/news/security/kraft-heinz-investigates-hack-claims-says-systems-operating-normally/;;Insider error;Hacker;2035;0.0253;unknown;11-8-2023;17-4-2024
+TRV;The Travelers Companies, Inc.;Finance;Yes;X;no open source;X;X;X;X;X;X;;;
+TMO;Thermo Fisher Scientific Inc;Health Technology;No;X;X;X;X;X;X;X;X;;;
+TJX;TJX Companies, Inc. (The);Retail Trade;No;X;X;X;X;X;X;X;X;;;
+TSCO;Tractor Supply Company;Retail Trade;No;X;X;X;X;X;X;X;X;;;
+TT;Trane Technologies plc;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+TDG;Transdigm Group Inc.;Electronic Technology;No;X;X;X;X;X;X;X;X;;;
+TRMB;Trimble Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+TFC;Truist Financial Corporation;Finance;No;X;X;X;X;X;X;X;X;;;
+TYL;Tyler Technologies, Inc.;Technology Services;Yes;23-09-2020;;https://krebsonsecurity.com/2020/09/govt-services-firm-tyler-technologies-hit-in-apparent-ransomware-attack/;;Insider error;Organization itself;7379;0.0215;unknown;21-5-2020;26-1-2021
+TSN;Tyson Foods, Inc.;Consumer Non-Durables;Yes;15-11-2023;;https://cybernews.com/news/tyson-foods-cyberattack-claims/;;Insider error;Hacker;2015;0.0242;IFF;13-7-2023;19-3-2024
+UDR;UDR, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+ULTA;Ulta Beauty, Inc.;Retail Trade;No;X;X;X;X;X;X;X;X;;;
+UNP;Union Pacific Corporation;Transportation;No;X;X;X;X;X;X;X;X;;;
+UAL;United Airlines Holdings, Inc.;Transportation;No;X;X;X;X;X;X;X;X;;;
+UPS;United Parcel Service, Inc.;Transportation;Yes;21-06-2023;;https://www.bleepingcomputer.com/news/security/ups-discloses-data-breach-after-exposed-customer-info-used-in-sms-phishing/;;Insider error;Organization itself;4215;0.0248;unknown;16-2-2023;24-10-2023
+URI;United Rentals, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+UNH;UnitedHealth Group Incorporated;Health Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+UHS;Universal Health Services, Inc.;Health Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+USB;US Bancorp;Finance;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+VLO;Valero Energy Corporation;Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+VTR;Ventas, Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+VRSN;VeriSign, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+VRSK;Verisk Analytics, Inc.;Technology Services;No;X;X;X;X;X;X;X;X;;;
+VZ;Verizon Communications Inc.;Communications;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+VRTX;Vertex Pharmaceuticals Incorporated;Health Technology;No;X;X;X;X;X;X;X;X;;;
+VFC;VF Corporation;Consumer Non-Durables;No;X;X;X;X;X;X;X;X;;;
+VTRS;Viatris Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+VICI;VICI Properties Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+V;Visa Inc.;Commercial Services;No;X;X;X;X;X;X;X;X;;;
+VMC;Vulcan Materials Company (Holding Company);Non-Energy Minerals;No;X;X;X;X;X;X;X;X;;;
+WRB;W.R. Berkley Corporation;Finance;No;X;X;X;X;X;X;X;X;;;
+GWW;W.W. Grainger, Inc.;Distribution Services;No;X;X;X;X;X;X;X;X;;;
+WBA;Walgreens Boots Alliance, Inc.;Health Technology;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+WMT;Walmart Inc.;Retail Trade;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+DIS;Walt Disney Company (The);Consumer Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+WBD;Warner Bros. Discovery, Inc. – Series A;Consumer Services;Yes;14-07-2023;MOVEit;https://techmonitor.ai/technology/cybersecurity/moveit-transfer-vulnerability-cl0p-discovery;;Outsider;Hacker;4841;0.0242;unknown;11-3-2023;16-11-2023
+WM;Waste Management, Inc.;Industrial Services;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+WAT;Waters Corporation;Health Technology;No;X;X;X;X;X;X;X;X;;;
+WEC;WEC Energy Group, Inc.;Utilities;No;X;X;X;X;X;X;X;X;;;
+WFC;Wells Fargo & Company;Finance;No;X;X;X;X;X;X;X;X;;;
+WELL;Welltower Inc.;Finance;No;X;X;X;X;X;X;X;X;;;
+WST;West Pharmaceutical Services, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+WDC;Western Digital Corporation;Electronic Technology;Yes;04-04-2023;;https://www.infosecurity-magazine.com/news/western-digital-hit-network-breach/;;Insider error;Hacker;3572;0.0240;STX;30-11-2022;7-8-2023
+WAB;Westinghouse Air Brake Technologies Corporation;Producer Manufacturing;Yes;03-01-2023;;https://www.bleepingcomputer.com/news/security/rail-giant-wabtec-discloses-data-breach-after-lockbit-ransomware-attack/;;Insider error;Organization itself;3743;0.0237;RTX;31-8-2022;8-5-2023
+WRK;Westrock Company;Process Industries;Yes;26-01-2021;;https://www.darkreading.com/cyberattacks-data-breaches/ransomware-disrupts-operations-at-packaging-giant-westrock;;Insider error;Organization itself;2657;0.0241;KMB;23-9-2020;31-5-2021
+WY;Weyerhaeuser Company;Finance;No;X;X;X;X;X;X;X;X;;;
+WHR;Whirlpool Corporation;Consumer Durables;Yes;28-12-2020;;https://www.forbes.com/sites/leemathews/2021/12/28/international-appliance-giant-whirlpool-has-been-hit-by-ransomware/?sh=2c93cee24d6e;;Insider error;Organization itself;3639;0.0237;AVGO;25-8-2020;2-5-2021
+WMB;Williams Companies, Inc. (The);Industrial Services;No;X;X;X;X;X;X;X;X;;;
+WTW;Willis Towers Watson Public Limited Company;Finance;Yes;28-07-2023;MOVEit;https://www.jdsupra.com/legalnews/willis-towers-watson-confirms-data-2996313/;;Outsider;Organization itself;6411;0.0243;unknown;25-3-2023;30-11-2023
+WYNN;Wynn Resorts, Limited;Consumer Services;Yes;16-09-2023;;https://www.kolotv.com/2023/09/16/two-vegas-casinos-fell-victim-cyberattacks-shattering-image-impenetrable-casino-security/;;Insider error;Organization itself;7011;0.0234;unknown;14-5-2023;19-1-2024
+XEL;Xcel Energy Inc.;Utilities;No;X;X;X;X;X;X;X;X;;;
+XYL;Xylem Inc.;Producer Manufacturing;No;X;X;X;X;X;X;X;X;;;
+YUM;Yum! Brands, Inc.;Consumer Services;Yes;18-01-2023;;https://www.yum.com/wps/portal/yumbrands/Yumbrands/news/company-stories/Yum+Brands+January+18+2023+Statement;;Insider error;Organization itself;5812;0.0224;CMG;15-9-2022;23-5-2023
+ZBRA;Zebra Technologies Corporation;Electronic Technology;Yes;X;multiple breaches;X;X;X;X;X;X;;;
+ZBH;Zimmer Biomet Holdings, Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
+ZION;Zions Bancorporation N.A.;Finance;No;X;X;X;X;X;X;X;X;;;
+ZTS;Zoetis Inc.;Health Technology;No;X;X;X;X;X;X;X;X;;;
